@@ -55,9 +55,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF7o_QNyY4w0wWYb0R3bYbqjE-x3npu5ZQA&s" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8RCNx58FltqGcZxoN71VmJAnOXGOpJOv3w&s" height="40" alt="materialui logo"  />
+  <img src="https://daisyui-shadcnui-next.vercel.app/_next/image?url=%2Fshadcnui.png&w=828&q=75" height="40" alt="daisy ui"  />
+  <img src="https://miro.medium.com/v2/resize:fit:894/1*g3__pm_lR-DmydNSyS4I6g.png" height="40" alt="Next Ui"  />
+  
 </div>
 
 ###
@@ -70,6 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" height="40" alt="zustant"  />
 </div>
 
 ###
